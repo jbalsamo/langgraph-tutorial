@@ -1,0 +1,3 @@
+langgraph==0.0.19
+langchain-openai==0.0.2  # Contains both OpenAI and AzureOpenAI integrations
+python-dotenv==1.0.1
